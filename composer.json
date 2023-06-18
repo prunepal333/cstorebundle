@@ -1,0 +1,26 @@
+{
+    "name": "prunepal333/cstore_ie",
+    "description": "A pimcore bundle to import/export pimcore classification store configuration",
+    "autoload": {
+        "psr-4": {
+            "Purush\\CstoreBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "purshottam nepal",
+            "email": "prunepal333@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "pimcore/pimcore": "^10.0.0"
+    },
+    "extra": {
+        "pimcore": {
+            "bundles": [
+                "Purush\\CstoreBundle\\CstoreBundle"
+            ]
+        }
+    }
+}
