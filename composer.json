@@ -1,5 +1,5 @@
 {
-    "name": "prunepal333/cstore_ie",
+    "name": "purush/cstorebundle",
     "description": "A pimcore bundle to import/export pimcore classification store configuration",
     "license": "GPL-3.0",
     "autoload": {
