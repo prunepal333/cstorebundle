@@ -16,7 +16,7 @@ class ClassificationStoreExportCommand extends AbstractCommand
     }
     public function configure(): void
     {
-        $this->setName('oimcore:cstore:export')
+        $this->setName('pimcore:cstore:export')
             ->setDescription('Exports the classification store configurations')
             ->addOption('filepath', 'f', InputOption::VALUE_REQUIRED, 'adds a file path to export json')
         ;
