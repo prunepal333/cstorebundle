@@ -12,4 +12,8 @@ class PurushCstoreBundle extends AbstractPimcoreBundle
             '/bundles/purushcstore/js/pimcore/startup.js'
         ];
     }
+    public function getVersion()
+    {
+        return '0.1';
+    }
 }
