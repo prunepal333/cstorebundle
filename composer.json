@@ -21,7 +21,7 @@
     "extra": {
         "pimcore": {
             "bundles": [
-                "Purush\\CstoreBundle\\CstoreBundle"
+                "Purush\\CstoreBundle\\PurushCstoreBundle"
             ]
         }
     }
