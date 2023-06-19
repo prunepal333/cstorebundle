@@ -1,5 +1,1 @@
-purush_cstore:
-    resource: "@PurushCstoreBundle/Controller/"
-    type:     annotation
-    prefix:   /
 
