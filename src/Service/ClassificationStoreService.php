@@ -1,4 +1,6 @@
 <?php
+declare(strict_types = 1);
+
 namespace Purush\CstoreBundle\Service;
 use Pimcore\Model\DataObject\Classificationstore\CollectionConfig;
 use Pimcore\Model\DataObject\Classificationstore\CollectionGroupRelation;
