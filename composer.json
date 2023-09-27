@@ -1,5 +1,6 @@
 {
     "name": "purush/cstorebundle",
+    "version": "1.0.0",
     "description": "A pimcore bundle to import/export pimcore classification store configuration",
     "license": "GPL-3.0",
     "type": "pimcore-bundle",
@@ -14,7 +15,6 @@
             "email": "prunepal333@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "pimcore/pimcore": "^10.0.0"
     },
